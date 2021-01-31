@@ -2,7 +2,7 @@
 
 <div class="column three">
     <strong>Phone</strong>
-    555.555.4444
+    402.555.4444
 </div> <!--end left column -->
 
 <div class="column three">

@@ -1,6 +1,6 @@
 <?php
 
-//NAv Menu items
+//Nav Menu items - for nav.php
 
 $navItems = array(
 
@@ -22,6 +22,7 @@ $navItems = array(
     ),
 );
 
+//Team members - for team.php
 $teamMembers = array (
     array(
         "name" => "Frankie III",
@@ -45,7 +46,7 @@ $teamMembers = array (
     ),
 );
 
-//Menu Items
+//Menu Items - for menu.php and dish.php
 $menuItems = array(
     "club-sandwhich" => array(
         "title" => "Club Sandwhich",
@@ -66,7 +67,7 @@ $menuItems = array(
         "drink" => "Cucumber  &amp; mint infused water"
     ),
     "mexican-barbacoa" => array(
-        "title" => "The Super salad",
+        "title" => "Mexican Barbacoa",
         "price" => 23,
         "description" =>  "Velit dolore sirloin turducken beef in do venison. Tail short ribs tongue sausage salami nulla. Eu tri-tip cow quis, pork chop tenderloin in brisket laboris swine commodo. Sint filet mignon ribeye adipisicing in irure ea consequat consectetur bresaola short loin.",
         "drink" => "Cadillac Margarita"
