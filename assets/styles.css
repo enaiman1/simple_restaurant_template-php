@@ -277,33 +277,33 @@ input.button.next {
 
 /* Final example website */
 
-#final-example .wrapper {
+.wrapper {
 	width: 800px;
 	padding: 0;
 }
 
-#final-example .content {
+.content {
 	padding: 20px 50px 50px;
 	text-align: left;
 }
 
-#final-example #nav {
+#nav {
 	margin: -27px 0 0;
 }
 
-#final-example #nav ul {
+#nav ul {
 	display: inline-block;
 	list-style: none;
 	text-align: left;
 }
 
-#final-example #nav ul li {
+#nav ul li {
 	display: inline-block;
 	text-align: center;
 	margin: 0 10px;
 }
 
-#final-example #nav ul li a {
+#nav ul li a {
 	display: block;
 	background: #353535;
 	outline: solid 2px #353535;
@@ -313,67 +313,67 @@ input.button.next {
 	text-decoration: none;
 }
 
-#final-example #nav ul li a:hover {
+#nav ul li a:hover {
 	background: #8ca757;
 	outline: solid 2px #8ca757;
 }
 
-#final-example #philosophy {
+#philosophy {
 	text-align: center;
 	font-size: 18px;
 	line-height: 22px;
 }
 
-#final-example #footer {
+#footer {
 	font-size: 12px;
 	line-height: 15px;
 	margin: 60px 0 0 0;
 }
 
-#final-example #footer strong {
+#footer strong {
 	display: block;
 	margin: 0 0 20px;
 }
 
-#final-example .column {
+.column {
 	display: block;
 	float: left;
 }
 
-#final-example .column.three {
+.column.three {
 	width: 203px;
 	margin-right: 45px;
 }
 
-#final-example .column.last {
+.column.last {
 	margin: 0;
 }
 
-#final-example small {
+small {
 	display: block;
 	text-align: center;
 	margin: 40px 0 0;
 }
 
-#final-example .member {
+.member {
 	width: 203px;
 	float: left;
 	margin-right: 45px;
 }
 
-#final-example .member:last-child {
+.member:last-child {
 	margin: 0;
 }
 
-#final-example .member img {
+.member img {
 	max-width: 100%;
 }
 
-#final-example .closed {
+.closed {
 	color: #d13916;
 }
 
-#final-example .open {
+.open {
 	color: #67b512;
 }
 
